@@ -2,7 +2,7 @@
 
 This plugin for xbar (https://xbarapp.com) uses the FreeStyle Libre LinkUp API to show the current blood glucose value in the macOS menu bar.
 
-*Attention:* Requires a  LibreLink Up Account (which is free) that needs to have permissions from the CGM sensor user to receive data.
+*Attention:* Requires a  LibreLink Up Account (which is free) that needs to have permissions from the CGM sensors user to receive data.
 
 ## Installation
 - Please set your LibreLink Up credentials in the plugin settings.
